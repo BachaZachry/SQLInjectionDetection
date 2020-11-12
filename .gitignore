@@ -122,11 +122,11 @@ env.bak/
 venv.bak/
 pythonenv*
 
-# Spyder project settings
+# Spyder app settings
 .spyderproject
 .spyproject
 
-# Rope project settings
+# Rope app settings
 .ropeproject
 
 # mkdocs documentation
